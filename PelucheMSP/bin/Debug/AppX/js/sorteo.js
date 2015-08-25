@@ -10,7 +10,7 @@ var strings = [];
 strings[0] = "Calculando";
 strings[1] = "¡Has ganado!";
 strings[2] = "No has tenido suerte :(";
-strings[3] = "¡Quiero mi peluche MSP!";
+strings[3] = "Uam\nDot\nNet";
 
 function sorteoSetUp() {
     //Set the starting string
@@ -79,8 +79,8 @@ function restablecer() {
     if (state == 2) {
         state = 0;
         document.getElementById("content").innerText = strings[3];
-        document.getElementById("content").style.backgroundColor = "rgba(60,200,244,0.6)";
-        document.getElementById("content").style.color = "rgba(60,114,188,1)";
+        document.getElementById("content").style.backgroundColor = "rgba(244,60,60,0.6)";
+        document.getElementById("content").style.color = "white";
     }
 }
 

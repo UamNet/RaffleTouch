@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="9826ece7-0f3c-4533-b2de-9e5b7e5e79e7" Version="1.0.0.1" Publisher="CN=Arcadio" />
+  <Identity Name="9826ece7-0f3c-4533-b2de-9e5b7e5e79e6" Version="1.0.0.1" Publisher="CN=Arcadio" />
   <Properties>
     <DisplayName>PelucheMSP</DisplayName>
     <PublisherDisplayName>Arcadio</PublisherDisplayName>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" StartPage="default.html">
-      <m2:VisualElements DisplayName="PelucheMSP" Description="PelucheMSP" ForegroundText="light" BackgroundColor="#464646" Square150x150Logo="images\Logo.png" Square30x30Logo="images\SmallLogo.png">
+      <m2:VisualElements DisplayName="UAM.NET" Description="UAM.NET" ForegroundText="light" BackgroundColor="#464646" Square150x150Logo="images\Logo.png" Square30x30Logo="images\SmallLogo.png">
         <m2:SplashScreen Image="images\splashscreen.png" />
       </m2:VisualElements>
     </Application>

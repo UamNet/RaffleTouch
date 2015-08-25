@@ -1,84 +1,86 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SURFACE10-ARCAD</Machine>
-    <WindowsUser>Arcadio</WindowsUser>
+    <Machine>SURFACEARCADIOW</Machine>
+    <WindowsUser>49pym</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <PackageIdentityName>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>397EB06107A40AE3EDEEC283BC08C1C00617799FFF75B9F27ED21F6F5929FECB</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7_1.0.0.1_neutral__3cm9bmetm2tqg</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7_3cm9bmetm2tqg!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7</RegisteredPackageID>
+    <PackageIdentityName>9826ece7-0f3c-4533-b2de-9e5b7e5e79e6</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2C8D7F67B9247DEA992D914057A2EF3F5B41505ADF28BAC604C79F4CCF03152E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9826ece7-0f3c-4533-b2de-9e5b7e5e79e6_1.0.0.1_neutral__3cm9bmetm2tqg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e6_3cm9bmetm2tqg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e6</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Arcadio</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-02-24T21:02:08.277</Modified>
+      <Modified>2015-08-25T13:15:45.389</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\default.html">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2015-02-28T22:15:23.143</Modified>
+      <Modified>2015-08-25T12:55:51.316</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\bg.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\bg.png">
       <PackagePath>images\bg.png</PackagePath>
-      <Modified>2015-02-19T15:43:16.931</Modified>
+      <Modified>2015-08-25T13:02:09.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\boxbg.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\boxbg.png">
       <PackagePath>images\boxbg.png</PackagePath>
-      <Modified>2015-02-19T15:45:43.163</Modified>
+      <Modified>2015-08-25T12:55:51.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\logo.scale-100.png">
       <PackagePath>images\logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-07T15:55:00.000</Modified>
+      <Modified>2015-08-25T12:55:51.342</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\msplogo.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\msplogo.png">
       <PackagePath>images\msplogo.png</PackagePath>
-      <Modified>2015-02-19T15:49:11.949</Modified>
+      <Modified>2015-08-25T13:03:55.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\smalllogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\smalllogo.scale-100.png">
       <PackagePath>images\smalllogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-07T15:55:00.000</Modified>
+      <Modified>2015-08-25T12:55:51.354</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\splashscreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\splashscreen.scale-100.png">
       <PackagePath>images\splashscreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-07T15:55:00.000</Modified>
+      <Modified>2015-08-25T12:55:51.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\storelogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\images\storelogo.scale-100.png">
       <PackagePath>images\storelogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-11-07T15:55:00.000</Modified>
+      <Modified>2015-08-25T12:55:51.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\canvas.js">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\js\canvas.js">
       <PackagePath>js\canvas.js</PackagePath>
-      <Modified>2015-02-28T22:15:00.249</Modified>
+      <Modified>2015-08-25T13:12:28.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\default.js">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-02-28T22:19:15.164</Modified>
+      <Modified>2015-08-25T12:55:51.367</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\sorteo.js">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\js\sorteo.js">
       <PackagePath>js\sorteo.js</PackagePath>
-      <Modified>2015-02-28T22:17:14.588</Modified>
+      <Modified>2015-08-25T13:14:09.288</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\css\default.css">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2015-02-19T18:12:29.022</Modified>
+      <Modified>2015-08-25T13:10:04.965</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\49pym\Documents\GitHub\RaffleTouch\PelucheMSP\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-02-24T21:03:51.296</Modified>
+      <Modified>2015-08-25T13:15:45.263</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

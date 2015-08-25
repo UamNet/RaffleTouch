@@ -26,12 +26,12 @@
     top:50%;
     margin-left:-300px;
     margin-top:-260px;
-    background:rgba(60,200,244,0.6) url("/images/boxbg.png");
+    background:rgba(244,60,60,0.6) url("/images/boxbg.png");
     font-size:60pt;
     padding:40px;
     text-align:center;
     font-weight:bold;
-    color:rgba(60,114,188,1);
+    color:white;
 }
 
 

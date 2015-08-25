@@ -58,3 +58,6 @@ function canvasloop() {
     }
 
 }
+
+
+window.onresize = resize;
